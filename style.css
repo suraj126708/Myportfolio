@@ -19,6 +19,11 @@ body > .hero-page {
   box-sizing: border-box;
 }
 
+::selection {
+  background-color: #6bc7e1;
+  color: #000000;
+}
+
 img {
   height: 350px;
   width: 350px;
