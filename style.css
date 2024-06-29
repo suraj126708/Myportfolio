@@ -109,12 +109,12 @@ h1 {
     box-shadow: none;
     border: none;
   }
-  body {
-    background: url(./image/download\\(6\).jpeg);
+  /* body {
+    background: url(./image/);
     background-size: contain;
     background-repeat: no-repeat;
     background-size: cover;
-  }
+  } */
   .social {
     display: flex;
     justify-content: space-evenly;
